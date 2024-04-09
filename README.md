@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simone benzi
 - 👀 I’m interested in Options, Machine Learning, Programming and statistics
-- 🌱 I’m currently a student of financial Mathematics
+- 🌱 I’m currently a student of Financial Mathematics at LMU (Munich) and Quantitative Finance at UniBo
 - 📫 How to reach me simone.benzi2@studio.unibo.it
 - ⚡ Linkedin: https://www.linkedin.com/in/simone-benzi-68a137166/
 
